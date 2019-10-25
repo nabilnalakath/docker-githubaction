@@ -1,7 +1,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Github Action for projects that use Docker
+# Github Action for projects that use [Docker](https://www.docker.com/)
 
 This is a sample project that demonstrates the use of github actions with docker.
 
