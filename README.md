@@ -5,7 +5,7 @@
 
 This is a sample project that demonstrates the use of github actions with docker.
 
-This project uses the following github actions -
+This project uses the following github actions --
 
 * https://github.com/actions/checkout
 * https://github.com/marketplace/actions/publish-docker
